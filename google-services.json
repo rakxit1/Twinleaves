@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290029564019",
+    "project_id": "twinleave",
+    "storage_bucket": "twinleave.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290029564019:android:a965ec703e5951fbc4ba06",
+        "android_client_info": {
+          "package_name": "com.raxit.twinleaves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290029564019-8im84g57j8brsrevo464hnaccf4v0r0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raxit.twinleaves",
+            "certificate_hash": "0a0c332ea2029995b19d55db1a85a1f48335ff49"
+          }
+        },
+        {
+          "client_id": "290029564019-h165ds0be8opvhvl9usgb116iol3r3g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTSIdLIeAcz-7E05rwnUkcPNbCpYTExo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290029564019-h165ds0be8opvhvl9usgb116iol3r3g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
